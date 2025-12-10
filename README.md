@@ -1,1 +1,0 @@
-# study_tracker_project
