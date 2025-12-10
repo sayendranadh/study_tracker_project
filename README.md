@@ -322,8 +322,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/sayendranadh)
+- Email: sayendranadh2005@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -331,14 +331,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Ollama team for AI integration capabilities
 - Hugging Face for transformer models
 - The open-source community
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/yourusername/study-progress-tracker/issues) page
-2. Create a new issue with detailed information
-3. Join our [Discussions](https://github.com/yourusername/study-progress-tracker/discussions)
 
 ## ⭐ Star History
 
