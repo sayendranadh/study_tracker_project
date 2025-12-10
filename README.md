@@ -1,3 +1,4 @@
+
 ## Ollama Integration (AI Features)
 
 To enable AI-based exam and code generation:
@@ -13,3 +14,6 @@ To enable AI-based exam and code generation:
 
 ✅ If Ollama is running, the app will use the Mistral model automatically.
 ❌ If not, it will use offline generation instead.
+=======
+# study_tracker_project
+
